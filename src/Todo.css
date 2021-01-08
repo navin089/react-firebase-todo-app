@@ -1,0 +1,19 @@
+body{
+    background-color: #9cd2f7
+}
+
+.todo_list{
+    text-align:center;
+    margin: 100px 300px 10px 250px;
+    padding: 10px 10px;
+    width: 50%;
+    height: -40px;
+    background-color: rgba(234, 255, 42, 0.933);
+    border-radius: 30px;  
+}
+
+.todo-container{
+    margin: 20px 20px;
+    height: 130px;
+    margin-left: 30%;
+}
